@@ -3,8 +3,7 @@
 <body>
 	<h1>Google Maps API Program</h1>
 	<p>This Python program uses the Google Maps API to search for businesses within a given radius of a set of addresses. The program outputs a list of businesses with their name, website, formatted address, and rating. The results are saved to an Excel file.</p>
-less
-Copy code
+
 <h2>Dependencies</h2>
 <ul>
 	<li>time</li>
